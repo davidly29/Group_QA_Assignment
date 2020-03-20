@@ -4,11 +4,11 @@ ProjectPlan.md
 
 1. Topics:
 
-Topics: |Assigned To:
+Topics: | Assigned To:
 ------------ | -------------
-Task Estimation: | All 4 as Group
-Code Standards: | Emma and David
-Code Review :   | Niamh and Gillian
+Task Estimation: |  All 4 as Group
+Code Standards: |   Emma and David
+Code Review :   |   Niamh and Gillian
 
 
 
@@ -50,4 +50,4 @@ Code Review :   | Niamh and Gillian
 10. On completion, have a group retrospective. Identify what went well and what could have been done better.
 
 
-***
+
