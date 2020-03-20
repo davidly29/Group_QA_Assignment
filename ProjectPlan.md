@@ -1,8 +1,8 @@
 ProjectPlan.md
 
- ProjectPlan: 
+ # ProjectPlan: 
 
-1. Topics:
+## Topics:
 
 Topics: | Assigned To:
 ------------ | -------------
@@ -10,7 +10,8 @@ Task Estimation: |  All 4 as Group
 Code Standards: |   Emma and David
 Code Review :   |   Niamh and Gillian
 
-
+## Steps: 
+1. Decide who's doing what and who's creating the respository. 
 
 2. David creates the master branch and also creates the develop branch 
     - Add the rest of us as collaboters, where each of us accept the invitation.
@@ -34,8 +35,9 @@ Code Review :   |   Niamh and Gillian
     Then checkout the develop branch, in order to get local copy:
     > git checkout develop
 
-6. Create a feature branch for each topic -- Create this off the develop branch 
-    ![](feature_branch_develop.png)
+6. Create a feature branch for each topic -- Create this off the develop branch
+ 
+    ![Feature Branch Develop Image](feature_branch_develop.png)
 
 7. Research your given topic and find 5 good quality resources (articles, blog posts etc) related to the topic and identify common themes among those resources. 
 
@@ -50,4 +52,6 @@ Code Review :   |   Niamh and Gillian
 10. On completion, have a group retrospective. Identify what went well and what could have been done better.
 
 
+## Creating Diagrams: 
 
+If you want to create diagrams to represent information [www.canva.com](https://www.canva.com/) is a good reources with plenty of layouts. 
