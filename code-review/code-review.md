@@ -43,3 +43,7 @@ If the code can be understood easily or not
 
 ### Resources: 
 
+https://www.lambdatest.com/blog/how-code-reviewing-can-help-with-quality-assurance/
+
+https://dzone.com/articles/how-code-reviewing-can-help-with-quality-assurance
+
