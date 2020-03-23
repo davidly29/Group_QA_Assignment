@@ -13,14 +13,18 @@ If there is any breach of security and most importantly
 
 If the code can be understood easily or not
 
-
 ## Benefits:
 
 [Diagram created using canva.com](https://www.canva.com/search/templates?q=Cycle%20Diagram&category=tADWs0Cq50o&doctype=TACQ-lCLuV8&designSpec=djE6dEFEV3MwQ3E1MG86Z2xvYmFsLXByZXNlbnRhdGlvbg%3D%3D&width=1024&height=768)
 
 
-## Code Review Tips
 
+- #### Include all team members, don’t isolate to yourself:  
+
+    Regardless developer experience, all code must be reviewed. Developers will produce the highest quality work once they know their code is being review by a fellow team member. Including a software engineer and architect whilst reviewing helps different issues to be detected.  Including multiple people in the code review in turn improves collaboration and relationships between developers. 
+ 
+
+<<<<<<< HEAD
 **Self Code Review** |**Team Code Review**
 ------------ | -------------
   *Self-code review occurs during development. Self-code review is mandatory. It is essential to produce the highest quality code.* | *Team code review occurs once the developer is satisfied with their code. This is essential to enhance code quality and has be proven to have beneficial effects for team’s culture.*
@@ -28,6 +32,8 @@ To always follow guidelines and company policy of developing code. This will hel
  Make sure naming conventions are accurate this helps for team code review in the future    | The reviewer must give constructive feedback. The reviewer should know what the code is supposed to do. 
 Error checking must be strict. Make regular checks and check for errors often.     | Always remember the important thing is that feedback must be given.
 In the event of an error create a descriptive log so during team review the reviewer will be able to understand rather than needing additional debugging. | The reviewee must always have good intentions.  The reviewee and the reviewer both want to deliver the highest quality code possible. Do not take any criticism about your code personally. 
+=======
+
 
 
 
