@@ -44,6 +44,18 @@ In the event of an error create a descriptive log so during team review the revi
 - #### Include all team members, don’t isolate to yourself:  
 
     Regardless developer experience, all code must be reviewed. Developers will produce the highest quality work once they know their code is being review by a fellow team member. Including a software engineer and architect whilst reviewing helps different issues to be detected.  Including multiple people in the code review in turn improves collaboration and relationships between developers. 
+
+  #### Use Code Review Tools, save time: 
+  Using automatic tools instead of manually checking and writing down issues frees up time for reviewers allowing them to focus on issues that tools can't find.  Using tools for lightweight review is recommended. 
+ 
+
+  #### Spend no longer than 60 Minutes Reviewing Code: 
+  Short intervals are more beneficial as performance and attention-to-detail deteriorate after this. Working in these frequent intervals allow you think of new scenarios with a clear mind.  Reviewing little and often no more than 400 lines of code at a time results in the highest code. 
+ 
+
+  #### Cultivating a Positive Culture;  not a blame game:  
+  An environment that’s allow you to make mistakes and learn from them would find the error. There is no need to blame a developer for a bug everyone should be positive that bugs were found early. Help bring your team closer together and working in a positive environment. 
+ 
  
 
 
