@@ -7,11 +7,19 @@ Code review is an activity part of the software quality assurance. This is where
 
 ## Objectives:
 
-If the style of code is under compliance by all policies
+## How to perform code review:  
 
-If there is any breach of security and most importantly 
+ **1. Formal Code Review:**  Inspections are thorough resulting in the best methods found to reduce defects. It is a collaboration of multiple team members who work in iterative phases to find the most effective way to present the code. Traditionally this will be done in meetings with the code being checked line by line, this is a very detailed process. 
 
-If the code can be understood easily or not
+ 
+
+ **2. Lightweight Code Review:**  Requires less effort that formal code review. Examples of this: 
+
+  **_Over the Shoulder:_**  The process of a developer reviewing the code while the reviewee talks through the code and explaining it.  
+
+  **_Pair Programming:_** Two developers code in the same workstation while constantly reviewing each other’s work. 
+
+  **_Tool Assisted Review:_** The use of specialised tools allow easier testing and code reviewing. The reviewer uses these tools to review the code and comment as needed. 
 
 ## Benefits:
 
@@ -64,6 +72,8 @@ In the event of an error create a descriptive log so during team review the revi
 https://www.lambdatest.com/blog/how-code-reviewing-can-help-with-quality-assurance/
 
 https://dzone.com/articles/how-code-reviewing-can-help-with-quality-assurance 
+
+https://simpleprogrammer.com/code-review-and-quality-assurance/ 
 
 
 
