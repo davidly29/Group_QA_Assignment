@@ -56,7 +56,7 @@ In the event of an error create a descriptive log so during team review the revi
 - #### Cultivating a Positive Culture;  not a blame game:  
   An environment that’s allow you to make mistakes and learn from them would find the error. There is no need to blame a developer for a bug everyone should be positive that bugs were found early. Help bring your team closer together and working in a positive environment. 
  
- 
+
 
 
 ### Resources: 
