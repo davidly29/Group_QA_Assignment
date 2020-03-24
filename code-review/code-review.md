@@ -1,32 +1,36 @@
 # What is Code Review? 
 
-What is code review? 
-
 Code review is an activity part of the software quality assurance. This is where the source code is broken into small pieces an inspected by one or more team member(s) which is to be carried out just before testing. Code review is done in order to detect mistakes, catch early bugs and ensure that the code follows the standard practices. Implementing code reviews is one of the relatively cheapest ways to detect and reduce bugs at an early stage. 
 
+![Overview of Code Review](code_review_overview.png)
 
-## Objectives:
 
-## How to perform code review:  
 
- **1. Formal Code Review:**  Inspections are thorough resulting in the best methods found to reduce defects. It is a collaboration of multiple team members who work in iterative phases to find the most effective way to present the code. Traditionally this will be done in meetings with the code being checked line by line, this is a very detailed process. 
+# How to perform code review:  
+
+ ### 1.   Formal Code Review:
+    
+Inspections are thorough resulting in the best methods found to reduce defects. It is a collaboration of multiple team members who work in iterative phases to find the most effective way to present the code. Traditionally this will be done in meetings with the code being checked line by line, this is a very detailed process. 
 
  
 
- **2. Lightweight Code Review:**  Requires less effort that formal code review. Examples of this: 
+ ### 2. Lightweight Code Review:
+ 
+ Requires less effort that formal code review. 
+ 
+ Examples of this: 
 
-  **_Over the Shoulder:_**  The process of a developer reviewing the code while the reviewee talks through the code and explaining it.  
+- **_Over the Shoulder:_**  The process of a developer reviewing the code while the reviewee talks through the code and explaining it.  
 
-  **_Pair Programming:_** Two developers code in the same workstation while constantly reviewing each other’s work. 
+- **_Pair Programming:_** Two developers code in the same workstation while constantly reviewing each other’s work. 
 
-  **_Tool Assisted Review:_** The use of specialised tools allow easier testing and code reviewing. The reviewer uses these tools to review the code and comment as needed. 
+- **_Tool Assisted Review:_** The use of specialised tools allow easier testing and code reviewing. The reviewer uses these tools to review the code and comment as needed. 
 
-## Benefits:
+# Benefits:
 
-[Diagram created using canva.com](https://www.canva.com/search/templates?q=Cycle%20Diagram&category=tADWs0Cq50o&doctype=TACQ-lCLuV8&designSpec=djE6dEFEV3MwQ3E1MG86Z2xvYmFsLXByZXNlbnRhdGlvbg%3D%3D&width=1024&height=768)
+![Benefits of Code Review](benefits_code_review.png)
 
-
-
+[Diagram created using canva.com](https://www.canva.com/)
 
 **Self Code Review** |**Team Code Review**
 ------------ | -------------
@@ -36,9 +40,11 @@ To always follow guidelines and company policy of developing code. This will hel
 Error checking must be strict. Make regular checks and check for errors often.     | Always remember the important thing is that feedback must be given.
 In the event of an error create a descriptive log so during team review the reviewer will be able to understand rather than needing additional debugging. | The reviewee must always have good intentions.  The reviewee and the reviewer both want to deliver the highest quality code possible. Do not take any criticism about your code personally. 
 
-## Best Practices
+# Best Practices
 
-### Do's and Don'ts
+### Do's and Don'ts:
+
+![Do's and Dont's](dos-and-donts-image.jpg)
 
 - #### Know what you're looking for, Don’t make simple errors:  
 
@@ -65,8 +71,6 @@ In the event of an error create a descriptive log so during team review the revi
   An environment that’s allow you to make mistakes and learn from them would find the error. There is no need to blame a developer for a bug everyone should be positive that bugs were found early. Help bring your team closer together and working in a positive environment. 
  
 
-
-
 ### Resources: 
 
 https://www.lambdatest.com/blog/how-code-reviewing-can-help-with-quality-assurance/
@@ -74,6 +78,11 @@ https://www.lambdatest.com/blog/how-code-reviewing-can-help-with-quality-assuran
 https://dzone.com/articles/how-code-reviewing-can-help-with-quality-assurance 
 
 https://simpleprogrammer.com/code-review-and-quality-assurance/ 
+
+https://smartbear.com/learn/code-review/why-review-code/ 
+
+https://www.michaelagreiler.com/code-review-best-practices/ 
+
 
 
 
