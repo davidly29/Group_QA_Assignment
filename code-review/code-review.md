@@ -47,7 +47,7 @@ In the event of an error create a descriptive log so during team review the revi
 
 ### Do's and Don'ts:
 
-![Do's and Dont's](code-review/dos-and-donts-image.jpg)
+![Do's and Dont's](dos-and-donts-image.jpg)
 
 - #### Know what you're looking for, Don’t make simple errors:  
 
