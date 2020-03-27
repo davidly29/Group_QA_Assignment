@@ -32,6 +32,9 @@ Inspections are thorough resulting in the best methods found to reduce defects. 
 
 [Diagram created using canva.com](https://www.canva.com/)
 
+
+# Top Tips: 
+
 **Self Code Review** |**Team Code Review**
 ------------ | -------------
   *Self-code review occurs during development. Self-code review is mandatory. It is essential to produce the highest quality code.* | *Team code review occurs once the developer is satisfied with their code. This is essential to enhance code quality and has be proven to have beneficial effects for team’s culture.*
