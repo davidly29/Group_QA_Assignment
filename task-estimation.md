@@ -7,8 +7,8 @@
 ![StepsInvoled](task-estimation-step.png)
 
 
-  In an Agile environment the Epic would be broken into User Stories which would then be estimated into points and assigned to a team member.  
-
+  In an Agile environment, the Epic would be broken into User Stories which would then be estimated into story points and the put into the sprint backlog meetings. After this the team will take stories from the backlog and assign them respectively in the given sprint. It is important to ensure that these stories do not exceed the estimated sprint velocity. 
+   
 ## What to Estimate
 
 ![WhatToEstimate](what_to_estimate_pic.png)
@@ -62,7 +62,8 @@ Human Resources:    | Factors such as the knowledge and developer experience of 
 
 
 # Testing Tasks
-**_Testing Tasks_**  Firstly involves research of the project, members through and analyse the project documentation. Allowing the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After, we can the move on into the flow of testing, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
+**_Testing Tasks_**  
+Firstly involves research of the project, members through and analyse the project documentation. Allowing the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After, we can the move on into the flow of testing, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
 
 **1) Write a test Plan**
 
