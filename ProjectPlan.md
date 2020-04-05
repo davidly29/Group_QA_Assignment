@@ -44,8 +44,6 @@ Code Review :   | Niamh and Gillian
 
 5. Create a feature branch for each topic -- Create this off the develop branch 
 
-    ![Feature Branch](feature_branch_develop.png)
-
 6. Research your given topic and find 5 good quality resources (articles, blog posts etc) related to the topic and identify common themes among those resources. 
 
     - Briefly introduce the topic.

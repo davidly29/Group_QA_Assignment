@@ -19,5 +19,6 @@ There are many benefits to working and developing in a team, but issues may aris
 
 - [Code Reviews](https://github.com/davidly29/Group_QA_Assignment/tree/code-review)
   
- ###Project Plan
+ ### Project Plan
+ 
 - [Project Plan](https://github.com/davidly29/Group_QA_Assignment/blob/master/ProjectPlan.md)
